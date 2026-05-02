@@ -131,9 +131,9 @@ creation and stored in the database to avoid repeated API calls.
 
 ---
 
- Deployment Steps
+Deployment Steps
 
- Deploy on Vercel
+Deploy on Vercel
 1. Push your code to GitHub
 2. Go to vercel.com and sign in with GitHub
 3. Click "Add New Project" and import your repository
@@ -193,4 +193,4 @@ Development Understanding
   Fixed by creating explicit policies for each table operation.
 - **Key decision:** Used Next.js API route for Cohere API call 
   to keep the API key secure on the server side, never 
-  exposing it to the browser.
+  exposing it to the browser
