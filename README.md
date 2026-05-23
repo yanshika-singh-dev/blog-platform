@@ -47,7 +47,7 @@ npm install
 
 Step- 3. Set Up Supabase
 1. Go to supabase.com and create a new project
-2. Go to SQL Editor and run the following:
+2. Go to SQL Editor and run the following queries:
 
 ```sql
 create table public.users (
